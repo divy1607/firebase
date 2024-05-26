@@ -40,7 +40,7 @@ function Auth() {
         <br />
         <button onClick={signIn}>submit</button>
         <button onClick={signInWithGoogle}> Sign In With Google </button>
-        <button onClick={logout}> Logout </button>
+        <button onClick={logout}> Logout karo </button>
     </>
 }
 
